@@ -7,10 +7,9 @@
   
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+I'm a software developer passionate about building mobile and web applications that provide value to users and help new developers find their way in the tech world. My focus is on crafting efficient, scalable, and user-friendly applications using Flutter.
 
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **ReactJs and Frontend**
+Some technologies I enjoy working with include Flutter, Dart, Firebase, and BLoC architecture. I'm always eager to learn new skills and stay up-to-date with the latest trends in mobile and cross-platform development.
+
+Let's connect and build something great together!🚀
+
